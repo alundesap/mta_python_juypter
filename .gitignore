@@ -7,3 +7,4 @@ python/vendor/
 target/
 node_modules/
 package-lock.json
+hana_ml-1.0.3.tar.gz
