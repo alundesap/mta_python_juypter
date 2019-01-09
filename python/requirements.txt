@@ -1,4 +1,5 @@
 # Bring dependencies local with pip
+cffi>=1.1
 Flask
 cfenv
 sap_py_jwt
@@ -6,3 +7,6 @@ sap_xssec
 hdbcli
 pydevd
 jupyter
+paramiko
+scp
+watchdog

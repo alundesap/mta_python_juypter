@@ -229,7 +229,7 @@ c.NotebookApp.ip = '*'
 #  Local IP addresses (such as 127.0.0.1 and ::1) are automatically accepted as
 #  local as well.
 #c.NotebookApp.local_hostnames = ['localhost']
-c.NotebookApp.local_hostnames = ['a-team-jn.cfapps.us10.hana.ondemand.com']
+#c.NotebookApp.local_hostnames = ['a-team-jn.cfapps.us10.hana.ondemand.com']
 
 ## The login handler class to use.
 #c.NotebookApp.login_handler_class = 'notebook.auth.login.LoginHandler'

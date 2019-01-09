@@ -57,6 +57,6 @@ Run the jupyter notebook server.
 jupyter notebook
 
 cf push ateamjn -u none --no-start -p python -n a-team-jn
-
+cf push atjn -p python --random-route
 
 Jupyter Notebook at: https://a-team-jn.cfapps.us10.hana.ondemand.com/
