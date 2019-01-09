@@ -262,6 +262,7 @@ c.NotebookApp.local_hostnames = ['a-team-jn.cfapps.us10.hana.ondemand.com']
 
 ## The directory to use for notebooks and kernels.
 #c.NotebookApp.notebook_dir = ''
+c.NotebookApp.notebook_dir = 'notebooks'
 
 ## Whether to open in a browser after starting. The specific browser used is
 #  platform dependent and determined by the python standard library `webbrowser`
