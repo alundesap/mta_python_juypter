@@ -63,4 +63,6 @@ Jupyter Notebook at: https://a-team-jn.cfapps.us10.hana.ondemand.com/
 
 wget -c http://thedrop.sap-a-team.com/files/hana_ml-1.0.3.tar.gz ; wget -c http://thedrop.sap-a-team.com/files/XS_PYTHON00_1-70003433.ZIP ; mkdir -p sap_dependencies ; unzip XS_PYTHON00_1-70003433.ZIP -d sap_dependencies
 
+:wq
+
 
